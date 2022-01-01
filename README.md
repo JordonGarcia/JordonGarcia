@@ -1,5 +1,3 @@
-<img align="center" src="https://i.ibb.co/dfFG6hK/2022.webp" width="50%">
-
 <h1 align="center">Jordon Garcia 👋</h1>
 <h3 align="center">The future is, us.</h3>
 <br/>
