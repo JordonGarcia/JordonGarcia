@@ -3,7 +3,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JordonGarcia/JordonGarcia/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JordonGarcia/JordonGarcia/blob/main/GIF/image.gif">
 </a>
 
 - Engaged in communitive building of the tech future.
