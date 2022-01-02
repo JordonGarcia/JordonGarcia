@@ -14,8 +14,6 @@ jobs:
         with:
         # ... other options
          # Coding Habit details
-         plugin_lines: yes
-         plugin_lines_skipped: repo # List of skipped repositories
          # Contribution full calender
          plugin_isocalendar: yes
          plugin_isocalendar_duration: full-year # Display full year instead of half year
