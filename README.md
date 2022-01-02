@@ -12,5 +12,3 @@
 <br/>
 
 ![Metrics](https://github.com/JordonGarcia/JordonGarcia/blob/main/github-metrics.svg)
-
-![Jordon's github activity graph](https://activity-graph.herokuapp.com/graph?username=jordongarcia&theme=react-dark)
