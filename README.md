@@ -7,7 +7,7 @@
 
 <pre>- Engaged in communitive building of our tech future.
 - Incorporating tech with daily life and societal progression.
-- Strategic business scaling that works, risk modeling
+- Strategic business scaling that works, risk modeling.
 - We are the future 🪐
 </pre>
 
