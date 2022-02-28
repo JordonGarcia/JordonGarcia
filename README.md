@@ -13,6 +13,8 @@
 
 <br/>
 
+![Metrics](https://github.com/JordonGarcia/JordonGarcia/blob/main/github-metrics.svg)
+
 ```js
 const jordon = ~0b0110001111010010001100101010101010;
 const t = ~0o30303033303303003033030303030030303;
@@ -28,5 +30,3 @@ const age = (x1___x2 / x2___x1 + x12___x21 + x7 + 1).toFixed(0);
 
 console.log(`My name is Jordon. I am ${age} years old`);
 ```
-
-![Metrics](https://github.com/JordonGarcia/JordonGarcia/blob/main/github-metrics.svg)
