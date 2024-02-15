@@ -1,4 +1,4 @@
-<h1 align="center">Jordon Garcia 👋</h1>
+<h1 align="center">Jordon Garcia</h1>
 <h3 align="center">The future is, us.</h3>
 
 <pre>
