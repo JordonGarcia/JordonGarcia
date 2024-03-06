@@ -1,7 +1,7 @@
 <h3 align="center">The future is, us.</h3>
 
 <pre>
-- Website Creation / Design. Ai Modeling (BERT, Self Learning, Generative, Risk Ratio, Finance)
+- Website Creation / Design. Ai Modeling (BERT, NLP, Self Learning, Generative, Risk Ratio, Finance)
 - We are the future.
 </pre>
 
