@@ -1,8 +1,8 @@
 <h3 align="center">The future is, us.</h3>
 
 <pre>
-- Business scaling, Risk Modeling, Finance
-- We are the future 🪐
+- Website Creation / Design. Ai Modeling (BERT, Self Learning, Generative, Risk Ratio, Finance)
+- We are the future.
 </pre>
 
 <br/>
